@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific ignores
+.vehicle_insurance/
+.DS_Store
+dbcred.txt
+src.egg-info/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+*.log
+notebook/
